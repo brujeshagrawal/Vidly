@@ -6,7 +6,6 @@ import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import logger from "./services/logService";
 import "bootstrap/dist/css/bootstrap.css";
-// import "bootstrap/dist/js/bootstrap.js";
 import "font-awesome/css/font-awesome.css";
 
 logger.init();
